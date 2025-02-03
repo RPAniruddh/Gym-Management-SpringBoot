@@ -15,8 +15,7 @@
 #### Member Management Service Use Cases
 1. Member Registration
    - Create new member profiles
-@@ -51,61 +19,3 @@
-   - Track membership status (active, expired, pending)
+   - Track membership status (active, deactive)
    - Handle membership renewals and upgrades
 
 3. Member Progress Tracking
